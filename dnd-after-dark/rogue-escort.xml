@@ -5,7 +5,7 @@
 		<description>The Escort from The Full Lewd Book</description>
 		<author url="">DnD After Dark</author>
 		<update version="0.0.1">
-			<file name="rogue-escort.xml" url="/dnd-after-dark/rogue-escort.xml" />
+			<file name="rogue-escort.xml" url="https://raw.githubusercontent.com/Wond3rjay/afterdark/refs/heads/main/dnd-after-dark/rogue-escort.xml" />
 		</update>
 	</info>
 	<element name="Escort" type="Archetype" source="Full Lewd Handbook" id="ID_DND_ARCHETYPE_ROGUE_ESCORT">
