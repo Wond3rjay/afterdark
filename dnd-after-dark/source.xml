@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<update version="0.1.4">
+			<file name="source.xml" url="/dnd-after-dark/source.xml" />
+		</update>
+	</info>	
+	<element name="DnD After Dark" type="Source" source="Core" id="ID_DND_SOURCE_AFTER_DARK">
+		<description>			
+			<p><em>When desires turn dark and naughty for Tabletop Gaming, this compendium aides you to achieve satisfaction. 5e rules for DnD NSFW Games adopted from the Lewd handbook and Seduction 5e</em></p>
+			<ul>
+				<li>NEW SUBCLASSES. Try out subclass options for every Dungeons &amp; Dragons class</li>
+				<li>MORE CHARACTER OPTIONS. Delve into a collection of new class features and new feats, and customize your character’s origin using twisted rules for modifying a character’s racial traits and horny needs.</li>
+				<li>SPELLS, ARTIFACTS &amp; MAGIC TATTOOS. Discover more spells, as well as magic tattoos, artifacts, and other magic items for your dirty campaign.</li>
+				<li>A PLETHORA OF PUZZLES. Ready to be dropped into any D&amp;D adventure, puzzles of varied difficulty await your adventurers, complete with traps and guidance on using the puzzles in a campaign that test your hunger for sex.</li>
+			</ul>
+		</description>
+		<setters>
+			<set name="abbreviation">DNDAD</set>
+			<set name="url"></set>
+			<set name="image"></set>
+			<set name="errata">https://media.wizards.com/2021/dnd/downloads/TCE-Errata.pdf</set>
+			<set name="author" abbreviation="DNDAD" url="">DND AD</set>
+			<set name="official">false</set>
+			<set name="supplement">true</set>
+			<set name="release">20241220</set>
+		</setters>
+	</element>
+</elements>

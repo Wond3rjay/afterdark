@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<index>
+	<info>
+		<name>D&D After Dark</name>
+		<update version="1.0.0">
+			<file name="dnd-after-dark.index" url="dnd-after-dark.index" />
+		</update>
+	</info>
+	<files>		
+		<!-- Misc -->
+		<file name="eldritch-invocations.xml" url="" />
+		<file name="feats.xml" url="" />
+		<file name="items.xml" url="" />
+		<file name="optional-class-features.xml" url="" />
+		<file name="options.xml" url="" />
+		<file name="source.xml" url="/dnd-after-dark/source.xml" />
+		<file name="spells.xml" url="" />
+		<file name="artificer-infusions.xml" url="" />
+		<file name="race-custom-lineage.xml" url="" />
+		<file name="class-artificer.xml" url="" />
+
+		<!-- Archetypes -->
+		<file name="pact-boon-talisman.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/tashas-cauldron-of-everything/archetypes/pact-boon-talisman.xml" />
+	</files>
+</index>
