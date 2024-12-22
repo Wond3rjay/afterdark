@@ -2,13 +2,13 @@
 <elements>
 	<info>
 		<name>Escort</name>
-		<description>The Escort from The Full Lewd Book</description>
+		<description>The Escort from DnD After Dark</description>
 		<author url="">DnD After Dark</author>
 		<update version="0.0.1">
 			<file name="rogue-escort.xml" url="https://raw.githubusercontent.com/Wond3rjay/afterdark/refs/heads/main/dnd-after-dark/rogue-escort.xml" />
 		</update>
 	</info>
-	<element name="Escort" type="Archetype" source="Full Lewd Handbook" id="ID_DND_ARCHETYPE_ROGUE_ESCORT">
+	<element name="Escort" type="Archetype" source="DnD After Dark" id="ID_DND_ARCHETYPE_ROGUE_ESCORT">
 		<supports>Roguish Archetype</supports>
 		<description>
 			<p>Sex Sells. Any rogue worth their salt understands the value of a well-placed bit of seduction, but few specialize in it the way you do. Prostitution is one of the oldest professions in the world, and you see no reason to fix what isn’t broken. You have honed your skills in the arts of pleasure and seduction, combining flawless sexual technique with a charming personality.</p>
@@ -39,7 +39,7 @@
 		<grant type="Proficiency" id="ID_PROFICIENCY_TOOL_PROFICIENCY_DISGUISE_KIT" />
 		</rules>
 	</element>
-    <element name="Seductive Flash" type="Archetype Feature" source="Full Lewd Handbook" id="ID_DND_ARCHETYPE_FEATURE_ESCORT_SEDUCTIVE_FLASH">
+    <element name="Seductive Flash" type="Archetype Feature" source="DnD After Dark" id="ID_DND_ARCHETYPE_FEATURE_ESCORT_SEDUCTIVE_FLASH">
 		<description>
 			<p><em>3rd-level Escort feature</em></p>
             <p>Starting at 3rd level, you have learned how to draw the eye and ensure all attention is on you. You can use the bonus action granted by your Cunning Action to attempt to distract or seduce a single target by flashing the target or making a seductive gesture towards the target. The target must make an inhibition saving throw with a DC equal to 8+ your Charisma Modifier + Your Proficiency Bonus.</p>
@@ -55,7 +55,7 @@
             <stat name="seductiveflash:dc" value="charisma:modifier" />
         </rules>
 	</element>
-	<element name="Read The Mark" type="Archetype Feature" source="Full Lewd Handbook" id="ID_DND_ARCHETYPE_FEATURE_ESCORT_READ_THE_MARK">
+	<element name="Read The Mark" type="Archetype Feature" source="DnD After Dark" id="ID_DND_ARCHETYPE_FEATURE_ESCORT_READ_THE_MARK">
 		<description>
 		    <p><em>9th-level Escort feature</em></p>
 			<p>At 9th level you have become an expert in reading those around you, And can easily determine what will most capture their attention.</p>
@@ -65,7 +65,7 @@
 			<description>Spend at least 1 minute observing a creature, you can determine the insightful information about it’s current mood or emotional state, personal interests, sexual orientation or proclivities, and sexual experience or history. You gain advantage on insight checks against this creature for the next hour, and sexual advances you make against it deal additional stimulation equal to your proficiency bonus.</description>
 		</sheet>
 	</element>
-	<element name="Stunning Strip" type="Archetype Feature" source="Full Lewd Handbook" id="ID_DND_ARCHETYPE_FEATURE_ESCORT_STUNNING_STRIP">
+	<element name="Stunning Strip" type="Archetype Feature" source="DnD After Dark" id="ID_DND_ARCHETYPE_FEATURE_ESCORT_STUNNING_STRIP">
 		<description>
 			<p><em>13th-level Escort feature</em></p>
 			<p>Beginning at 13th level, your seductive charms are nothing less than stunning. You may daftly strip a clothing you wear to stun the beholding target, if they fail the saving throw against your charming moves. When a creature fails is saving throw against your Cunning Flash feature by 5 or more, the target becomes hyperaroused.</p>
@@ -75,7 +75,7 @@
 		</sheet>
 		<grant type="Proficiency" id="ID_PROFICIENCY_TOOL_PROFICIENCY_DISGUISE_KIT" />
 	</element>
-	<element name="All Eyes on Me" type="Archetype Feature" source="Full Lewd Handbook" id="ID_DND_ARCHETYPE_FEATURE_ESCORT_ALL_EYES_ON_ME">
+	<element name="All Eyes on Me" type="Archetype Feature" source="DnD After Dark" id="ID_DND_ARCHETYPE_FEATURE_ESCORT_ALL_EYES_ON_ME">
 		<description>
 			<p><em>17th-level Escort feature</em></p>
 			<p>By 17th level, you have learned to make yourself irresistible to the entire room. If you don't wear an armor, you add your charisma modifier to your AC.</p>

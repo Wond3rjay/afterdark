@@ -19,7 +19,7 @@
 			<set name="abbreviation">DNDAD</set>
 			<set name="url"></set>
 			<set name="image"></set>
-			<set name="author" abbreviation="DNDAD" url="">DND AD</set>
+			<set name="author" abbreviation="DNDAD" url="">DnD After Dark</set>
 			<set name="official">false</set>
 			<set name="supplement">true</set>
 			<set name="release">20241220</set>
