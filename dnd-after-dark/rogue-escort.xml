@@ -27,7 +27,7 @@
 			<grant type="Archetype Feature" id="ID_DND_ARCHETYPE_FEATURE_ESCORT_ALL_EYES_ON_ME" level="17" />
 		</rules>
 	</element>
-	<element name="Turning Tricks" type="Archetype Feature" source="Full Lewd Handbook" id="ID_DND_ARCHETYPE_FEATURE_ESCORT_TURNING_TRICKS">
+	<element name="Turning Tricks" type="Archetype Feature" source="DnD After Dark" id="ID_DND_ARCHETYPE_FEATURE_ESCORT_TURNING_TRICKS">
 		<description>
 			<p><em>3rd-level Escort feature</em></p>
 			<p>When you choose this Archetype at 3rd level, you gain proficiency with the disguise kit if you are not already proficient. Additionally, you have advantage on investigation checks made while in densely populated areas, and on persuasion checks to haggle or determine the value of goods.</p>
