@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <index>
 	<info>
-		<name>D&D After Dark</name>
+		<name>DnD After Dark</name>
 		<update version="1.0.0">
 			<file name="dnd-after-dark.index" url="dnd-after-dark.index" />
 		</update>
